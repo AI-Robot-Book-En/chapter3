@@ -1,4 +1,4 @@
-# Chapter 3: Speech Recognition and Synthesis (Revised 2nd Edition)
+# Chapter 3: Speech Recognition and Synthesis
 ## Overview
 This repository provides sample programs and supplementary information for Chapter 3.
 
