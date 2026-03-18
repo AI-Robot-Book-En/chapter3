@@ -37,7 +37,7 @@ Programs for performing speech recognition and speech synthesis using ROS 2 and 
     ```
   - The message will be spoken aloud through the speaker.
 
-- Speech Echo Using Action Communication (Section 3.3.1)  
+- Speech Echo Using Action Communication (Section 3.3)  
   - Open a terminal and start the speech recognition server:
     ```bash
     ros2 run speech_action speech_recognition_server
